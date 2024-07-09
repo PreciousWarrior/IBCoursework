@@ -1,0 +1,37 @@
+[
+    {
+        "teacher1": "Barack Zoebama",
+        "teacher2": "Boe Ziden",
+        "teacher1email": "barack.zoebama@gmail.com",
+        "teacher2email": "boe.ziden@gmail.com",
+        "grade": 6,
+        "section": "B",
+        "students": [
+            {"name": "John Doe", "email": "john.doe@example.com", "id": "PSN81651", "guardians": [{"name": "Joe Rogan", "email": "joe.rogan@gmail.com"}, {"name": "Tailor Swift", "email": "tailor@gmail.com"}]},
+            {"name": "Alice Johnson", "email": "alice.johnson@example.com", "id": "PSN23561", "guardians": [{"name": "David Beckham", "email": "david.beckham@example.com"}, {"name": "Emma Watson", "email": "emma@example.com"}]},
+            {"name": "Michael Smith", "email": "michael.smith@example.com", "id": "PSN75932", "guardians": [{"name": "Tom Hanks", "email": "tom.hanks@example.com"}, {"name": "Jennifer Lopez", "email": "jlo@example.com"}]},
+            {"name": "Emily Brown", "email": "emily.brown@example.com", "id": "PSN68234", "guardians": [{"name": "Johnny Depp", "email": "johnny.depp@example.com"}, {"name": "Angelina Jolie", "email": "angelina@example.com"}]},
+            {"name": "Daniel Wilson", "email": "daniel.wilson@example.com", "id": "PSN48925", "guardians": [{"name": "Leonardo DiCaprio", "email": "leo@example.com"}, {"name": "Emma Stone", "email": "emma.stone@example.com"}]},
+            {"name": "Sophia Taylor", "email": "sophia.taylor@example.com", "id": "PSN91782", "guardians": [{"name": "Brad Pitt", "email": "brad.pitt@example.com"}, {"name": "Scarlett Johansson", "email": "scarlett@example.com"}]},
+            {"name": "Oliver Miller", "email": "oliver.miller@example.com", "id": "PSN36482", "guardians": [{"name": "Robert Downey Jr.", "email": "rdj@example.com"}, {"name": "Meryl Streep", "email": "meryl@example.com"}]},
+            {"name": "Emma Martinez", "email": "emma.martinez@example.com", "id": "PSN72694", "guardians": [{"name": "Will Smith", "email": "will.smith@example.com"}, {"name": "Julia Roberts", "email": "julia@example.com"}]},
+            {"name": "William Anderson", "email": "william.anderson@example.com", "id": "PSN58291", "guardians": [{"name": "Keanu Reeves", "email": "keanu@example.com"}, {"name": "Charlize Theron", "email": "charlize@example.com"}]},
+            {"name": "Isabella Garcia", "email": "isabella.garcia@example.com", "id": "PSN17359", "guardians": [{"name": "Dwayne Johnson", "email": "dwayne@example.com"}, {"name": "Gal Gadot", "email": "gal@example.com"}]}
+        ]
+    },
+    {
+        "teacher1": "Liam Johnson",
+        "teacher2": "Mia Wilson",
+        "teacher1email": "liam.johnson@gmail.com",
+        "teacher2email": "mia.wilson@gmail.com",
+        "grade": 9,
+        "section": "C",
+        "students": [
+            {"name": "Sophie Williams", "email": "sophie.williams@example.com", "id": "PSN12345", "guardians": [{"name": "Chris Hemsworth", "email": "chris@example.com"}, {"name": "Natalie Portman", "email": "natalie@example.com"}]},
+            {"name": "Alexander Brown", "email": "alexander.brown@example.com", "id": "PSN67890", "guardians": [{"name": "Hugh Jackman", "email": "hugh@example.com"}, {"name": "Anne Hathaway", "email": "anne@example.com"}]},
+            {"name": "Ava Davis", "email": "ava.davis@example.com", "id": "PSN24680", "guardians": [{"name": "Tom Cruise", "email": "tom@example.com"}, {"name": "Cameron Diaz", "email": "cameron@example.com"}]},
+            {"name": "James Rodriguez", "email": "james.rodriguez@example.com", "id": "PSN13579", "guardians": [{"name": "Bradley Cooper", "email": "bradley@example.com"}, {"name": "Lady Gaga", "email": "gaga@example.com"}]},
+            {"name": "Charlotte Taylor", "email": "charlotte.taylor@example.com", "id": "PSN97531", "guardians": [{"name": "Ryan Reynolds", "email": "ryan@example.com"}, {"name": "Blake Lively", "email": "blake@example.com"}]}
+        ]
+    }
+]
